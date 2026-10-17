@@ -43,7 +43,7 @@ d'abord en Afrique de l'Ouest, puis partout où elles en ont besoin.
 La plateforme qui fait tourner un garage automobile de bout en bout, pour **les clients**, **les mécaniciens**
 et **les gérants** — au Bénin, dans la zone UEMOA et en France.
 
-| | |
+| Module | Ce que fait OkMeca |
 |---|---|
 | 🔧 **Atelier** | Rendez-vous, ordres de réparation, devis validés en ligne, pointage et tâches des mécaniciens |
 | 🧾 **Facturation** | Factures et reçus PDF, factures normalisées **e-MECeF** au Bénin, caisse et rapport Z |
